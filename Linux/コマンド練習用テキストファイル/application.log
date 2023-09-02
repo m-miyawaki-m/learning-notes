@@ -1,0 +1,1341 @@
+2023-08-24 10:10:50.948 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 10:10:51.624 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 10:10:53.053 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 10:10:53.167 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 10:10:53.179 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 10:10:53.181 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 10:10:53.202 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 10:10:53.205 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 10:10:53.211 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 10:10:53.215 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 10:10:53.249 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 10:10:53.249 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-98:0d:6f:82:2f:a9
+2023-08-24 10:10:53.249 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 10:10:54.191 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 10:10:54.318 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 10:10:55.228 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 10:10:55.236 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 10:10:55.935 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 10:10:56.643 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:10:59.143 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 10:11:23.186 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 10:15:21.613 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:15:50.349 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:17:00.452 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:17:09.647 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:18:20.169 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:18:28.650 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:19:51.984 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:20:42.893 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:21:19.481 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:21:36.324 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:21:49.182 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:22:03.792 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:22:29.099 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:22:38.256 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:23:41.779 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:24:11.384 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:24:11.387 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:24:21.686 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:25:32.402 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:26:06.418 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:26:08.096 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:26:11.918 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:26:32.082 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:26:33.140 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:27:33.132 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:27:33.134 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:27:42.569 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:28:05.533 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:28:21.232 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:28:23.803 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:28:53.752 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:28:53.754 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:29:07.403 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:29:29.029 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:29:30.311 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:29:33.991 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:29:53.483 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:30:04.319 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:30:04.328 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:30:14.485 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:30:24.092 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:30:45.501 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:30:54.813 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:31:18.033 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:31:18.035 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:31:26.887 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.644 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.645 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:45:53.645 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.645 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.645 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:45:53.646 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:45:53.646 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:45:53.646 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.647 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.647 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 10:45:53.647 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.647 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.648 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-1c:91:9d:b9:f2:5b
+2023-08-24 10:45:53.649 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.650 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.650 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.650 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.650 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.650 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-1c:91:9d:b9:f2:5b
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:45:53.651 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:46:12.995 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 10:46:13.329 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 10:46:13.395 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 10:46:13.520 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 10:46:13.520 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 10:46:13.520 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 10:46:13.552 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 10:46:15.122 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 10:46:30.612 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:46:33.923 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:46:53.405 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-98:0d:6f:82:2f:a9
+2023-08-24 10:46:53.440 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-98:0d:6f:82:2f:a9
+2023-08-24 10:46:53.440 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-98:0d:6f:82:2f:a9
+2023-08-24 10:47:10.199 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 10:47:10.204 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 10:47:10.204 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 10:47:10.205 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 10:47:10.297 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 10:47:10.304 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 10:47:10.305 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 10:47:10.305 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 10:47:10.306 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 10:47:10.312 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 10:47:10.312 +02:00 [WRN] DeviceSelectionDialog: Refresh already in progress
+2023-08-24 10:47:10.314 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 10:47:10.315 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 10:47:10.316 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 10:47:10.323 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:47:10.325 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 10:47:10.325 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:47:11.038 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 10:47:11.038 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 10:47:11.038 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 10:47:11.038 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 10:47:11.041 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 10:47:12.221 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 10:47:13.039 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 10:47:40.339 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 10:47:44.297 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 10:47:44.301 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 10:49:17.687 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 10:49:17.687 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 10:49:37.495 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:49:37.495 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:49:45.496 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:49:45.496 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:16.735 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:16.736 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:25.579 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:25.581 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:26.604 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:26.604 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:27.933 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:27.933 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:50:36.847 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:36.847 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:39.916 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:39.918 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:41.796 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:41.805 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:41.811 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:50:41.819 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:51:04.835 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 10:51:04.837 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 10:51:04.837 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 10:51:04.837 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 10:51:59.485 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:51:59.486 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:52:47.172 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:52:47.172 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:53:17.801 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:53:17.801 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 10:53:30.213 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:53:30.213 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:53:36.821 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 10:53:42.408 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 10:53:59.033 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:53:59.033 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:54:17.262 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:54:17.262 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:54:18.901 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:54:18.901 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:54:26.839 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:54:26.839 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:55:10.402 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 10:55:10.402 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 10:55:39.621 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:55:39.621 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:55:55.360 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:55:55.360 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:56:40.136 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:56:40.136 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:56:40.136 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:56:40.136 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:56:50.925 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:56:50.925 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 10:58:27.796 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:58:27.796 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:20.232 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:20.232 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:38.680 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:38.681 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:59.283 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 10:59:59.283 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:00:14.462 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:00:14.462 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:18.615 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:18.615 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:29.351 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:29.351 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:58.544 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:01:58.544 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:02:10.454 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:02:10.454 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:02.343 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:02.343 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:02.345 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:02.345 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:08.896 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:04:08.897 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:04:08.905 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:04:08.906 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:04:08.906 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:04:08.906 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-98:0d:6f:82:2f:a9
+2023-08-24 11:04:08.907 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:04:08.907 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:04:08.907 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:04:08.917 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:04:08.917 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:04:08.918 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:08:33.511 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:08:33.601 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:08:33.605 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:08:33.605 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:08:33.605 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:08:33.605 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:08:33.620 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:08:33.621 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:08:33.621 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:08:33.622 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:08:55.891 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:08:55.891 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:09:08.726 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:09:08.726 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:09:21.474 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 11:09:21.474 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 11:09:34.151 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:09:34.150 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:09:37.282 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:09:37.282 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:09:50.122 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 11:09:50.122 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-9c:5f:b0:08:8b:f5
+2023-08-24 11:10:29.421 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:10:29.421 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:10:50.352 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:10:50.352 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:11:11.821 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:11.830 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:22.837 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:22.838 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:23.142 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:23.150 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:11:27.998 +02:00 [INF] MainWindow.TitleBar: Close requested, minimizing to tray bar
+2023-08-24 11:11:30.044 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:11:30.044 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:11:30.044 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:11:30.047 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:11:33.703 +02:00 [INF] TrayManager: Exit requested by user
+2023-08-24 11:11:33.736 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:11:33.900 +02:00 [INF] MainWindow: Shutting down normally
+2023-08-24 11:11:50.909 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 11:11:51.304 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 11:11:52.430 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:11:52.452 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 11:11:52.454 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 11:11:52.456 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 11:11:52.458 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:11:52.738 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:11:53.029 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:11:53.128 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:11:53.510 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:11:53.511 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:11:53.512 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:11:53.512 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:11:53.761 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:11:53.765 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:11:54.010 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:11:54.449 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:11:57.725 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:11:58.764 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:11:58.765 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:11:58.766 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:10.869 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:10.870 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:10.870 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:10.871 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:12.740 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:12.741 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:12.741 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:12.741 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:14.380 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:14.381 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:14.382 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:14.382 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:21.553 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:21.554 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:21.554 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:21.554 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:31.977 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:31.978 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:31.978 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:31.978 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:36.129 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:36.129 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:36.130 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:36.130 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:44.538 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:12:44.538 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:44.538 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:12:44.538 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:12:46.636 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:12:46.639 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:12:46.639 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:12:46.650 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:12:52.594 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:12:52.594 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:13:16.180 +02:00 [INF] MainWindow.TitleBar: Close requested, minimizing to tray bar
+2023-08-24 11:13:19.118 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:19.119 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:13:19.119 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:19.121 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:21.434 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:13:21.559 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:13:21.584 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:21.622 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:13:21.727 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:21.727 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:13:21.727 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:21.748 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:13:21.882 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:13:31.211 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:13:31.211 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:31.211 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:13:31.211 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:34.285 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:13:34.285 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:34.285 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:13:34.286 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:49.163 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:13:49.163 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:49.163 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:13:49.163 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:54.796 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:13:54.796 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:54.796 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:13:54.796 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:13:57.045 +02:00 [INF] MainWindow.TitleBar: Close requested, minimizing to tray bar
+2023-08-24 11:14:02.262 +02:00 [INF] TrayManager: Exit requested by user
+2023-08-24 11:14:02.273 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:14:02.327 +02:00 [INF] MainWindow: Shutting down normally
+2023-08-24 11:14:28.315 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 11:14:28.693 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 11:14:29.641 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:14:29.661 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 11:14:29.665 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 11:14:29.667 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 11:14:29.669 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:14:29.956 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:14:30.267 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:14:30.374 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:14:30.769 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:14:30.771 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:14:30.771 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:14:30.771 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:14:31.022 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:14:31.026 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:14:31.316 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:14:31.672 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:15:40.082 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:15:40.082 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:40.083 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:15:40.083 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:40.616 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:15:40.616 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:40.616 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:15:40.616 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:42.161 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:15:42.162 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:42.163 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:15:42.164 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:43.674 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:15:43.674 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:43.674 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:15:43.674 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:15:57.273 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:15:57.273 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:16:04.142 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:16:32.583 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:16:32.584 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:16:32.585 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:16:32.588 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:34.568 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:17:34.569 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:34.569 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:17:34.569 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:44.333 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:17:44.333 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:44.333 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:17:44.334 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:46.200 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:17:46.200 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:46.201 +02:00 [DBG] Windows.BluetoothService: Connecting...
+2023-08-24 11:17:46.201 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:17:52.111 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:17:52.111 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:18:00.815 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:18:09.719 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:18:09.721 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:18:09.721 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:18:09.722 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:18:09.775 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:18:09.778 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:18:09.779 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:18:09.789 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:18:09.790 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:18:19.078 +02:00 [INF] MainWindow.TitleBar: Close requested, minimizing to tray bar
+2023-08-24 11:18:35.926 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 11:18:39.790 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:18:51.742 +02:00 [DBG] MainWindow.OnClosing: Termination cancelled
+2023-08-24 11:26:11.066 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 11:26:13.441 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 11:26:18.019 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:26:18.066 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:26:18.073 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 11:26:18.082 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:26:18.083 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:18.083 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:26:18.084 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 11:26:18.084 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:26:18.088 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 11:26:18.091 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:26:18.095 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:26:18.095 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:26:18.095 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:26:18.095 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:26:18.915 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:26:19.069 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:26:20.165 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:26:20.177 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:26:22.483 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:23.180 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:26:24.584 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:26:26.378 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:26:27.096 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:26:27.271 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:26:27.495 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:26:27.496 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:26:27.496 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:26:27.571 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:26:27.573 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:26:37.060 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:40.258 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:26:41.117 +02:00 [WRN] DeviceSelectionDialog: Refresh already in progress
+2023-08-24 11:26:46.728 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:46.871 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:46.872 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:48.092 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:26:50.848 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:52.012 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:53.927 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:53.931 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:26:54.009 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:26:54.022 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:26:54.022 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:26:54.025 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:26:54.147 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:26:56.139 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:27:04.182 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:07.843 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:27:08.076 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:10.057 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:14.353 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:14.356 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:27:14.357 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:27:14.359 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:27:14.366 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:27:14.368 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:14.368 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:14.370 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:27:14.372 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:14.372 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:14.373 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:27:14.386 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:27:14.386 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:14.386 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:27:16.797 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:16.798 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:27:16.798 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:27:16.799 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:27:16.802 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:27:16.967 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:16.967 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:27:16.967 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:27:16.967 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:27:16.974 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:27:16.979 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:16.979 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:16.980 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:27:16.982 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:16.984 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:27:16.989 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:27:16.990 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:16.990 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:27:17.135 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:17.135 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:27:17.135 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:27:17.136 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:27:17.138 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:27:18.155 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:18.155 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:27:18.155 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:27:18.156 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:27:18.166 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:27:18.185 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:18.185 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:18.185 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:18.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:27:18.801 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:27:19.134 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:27:26.758 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:26.758 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:27:26.758 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:27:26.758 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:27:26.761 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:27:27.265 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:27:27.265 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:27:27.265 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:27:27.266 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:27:27.274 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:27:27.279 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:27.279 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:27:27.280 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:27:27.282 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:27:27.284 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:27:27.288 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:27:27.289 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:27:27.289 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:27:28.764 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:27:41.422 +02:00 [INF] MainWindow.TitleBar: Close requested, minimizing to tray bar
+2023-08-24 11:27:44.398 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:27:46.992 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:27:48.180 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:27:48.548 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:48.548 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:48.548 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:48.549 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:48.549 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:27:57.294 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:28:01.893 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:01.893 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:01.893 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:01.893 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:01.894 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:14.751 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:14.751 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:14.751 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:14.751 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:14.751 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.198 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.198 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.198 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.198 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.198 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.840 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.840 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.840 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.841 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:28:25.840 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:29:08.707 +02:00 [DBG] MainWindow.OnClosing: Termination cancelled
+2023-08-24 11:29:13.481 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:29:13.481 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:29:13.481 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:29:13.481 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:29:13.481 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:30:36.517 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 11:30:38.894 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 11:30:42.728 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:30:42.780 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:30:42.792 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:30:42.796 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:30:42.808 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:30:42.808 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:30:42.809 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:30:42.809 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:30:42.809 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:30:42.809 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:30:42.809 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:30:42.814 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 11:30:42.818 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 11:30:42.821 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 11:30:42.823 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:30:44.032 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:30:44.253 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:30:45.498 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:30:45.504 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:30:46.215 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:31:02.104 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:31:02.302 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:31:02.381 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:31:02.533 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:02.533 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:31:02.533 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:02.562 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:02.594 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:31:06.601 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:06.606 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:06.606 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:06.607 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService (ARM)
+2023-08-24 11:31:06.614 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:06.620 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:06.620 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:06.621 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:06.621 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:06.621 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:06.621 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:06.623 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:06.623 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:06.623 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:07.388 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:07.389 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:07.390 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:07.390 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:31:07.396 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:07.399 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:07.400 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:07.402 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:07.403 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:07.408 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:07.409 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:07.409 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:08.064 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:08.064 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:08.065 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:08.066 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService (ARM)
+2023-08-24 11:31:08.071 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:08.072 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:08.073 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:08.073 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:08.074 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:08.076 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:08.077 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:08.077 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:08.972 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:08.972 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:08.972 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:08.973 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:31:08.980 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:08.982 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:08.983 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:08.984 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:08.985 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:08.987 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:08.987 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:08.988 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:08.992 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:08.993 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:08.993 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:10.227 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:10.227 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:10.228 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:10.228 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService (ARM)
+2023-08-24 11:31:10.240 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:10.263 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:10.264 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:10.264 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:10.264 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:10.272 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:10.272 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:10.274 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:10.426 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:31:10.426 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:31:10.426 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:31:10.427 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:31:10.436 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:31:10.441 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:10.441 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:31:10.442 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:10.442 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:31:10.443 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:10.443 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:31:10.445 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:31:10.450 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:31:10.450 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:31:10.451 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:31:12.800 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:31:17.279 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:31:17.481 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:31:17.560 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:31:17.712 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:17.712 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:31:17.712 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:17.714 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:31:18.107 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:31:19.435 +02:00 [INF] MainWindow.TitleBar: Close requested, exiting app
+2023-08-24 11:31:19.435 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:31:19.543 +02:00 [INF] MainWindow: Shutting down normally
+2023-08-24 11:43:47.665 +02:00 [INF] Using settings file at: C:\Users\Admin\AppData\Local/GalaxyBudsClient/config.json
+2023-08-24 11:43:48.387 +02:00 [INF] SingleInstanceWatcher: Server listening at tcp:host=::1,port=54532
+2023-08-24 11:43:50.550 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:43:50.613 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:43:50.618 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:43:50.620 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:43:50.635 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:43:50.635 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:43:50.636 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:43:50.671 +02:00 [INF] Translator mode file location: C:\Users\Admin\AppData\Local/GalaxyBudsClient/custom_language.xaml
+2023-08-24 11:43:50.679 +02:00 [INF] User script directory: C:\Users\Admin\AppData\Local/GalaxyBudsClient/scripts
+2023-08-24 11:43:50.683 +02:00 [INF] ScriptManager: 0 user script(s) found
+2023-08-24 11:43:50.687 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:43:51.613 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:43:51.772 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:43:53.323 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:43:53.328 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:43:53.926 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:44:00.065 +02:00 [WRN] DeviceSelectionDialog: Refresh already in progress
+2023-08-24 11:44:01.080 +02:00 [WRN] DeviceSelectionDialog: Refresh already in progress
+2023-08-24 11:44:02.573 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:44:02.580 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:44:02.580 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:44:02.582 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:44:02.784 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:44:04.614 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:44:15.974 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:44:15.976 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:44:15.977 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:44:15.979 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:44:15.984 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:44:15.995 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:44:15.995 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:44:15.996 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:44:15.996 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:44:15.996 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:44:15.996 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:44:15.998 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:44:15.998 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:44:15.998 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:44:17.267 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:44:17.267 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:44:20.629 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:44:26.018 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:44:26.062 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:44:37.627 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:44:37.633 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:44:41.175 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:44:46.017 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:44:53.529 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:44:53.529 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:02.290 +02:00 [DBG] MainWindow.ShowPopup: Popup not yet shown; Ignore conditional check: True
+2023-08-24 11:45:02.308 +02:00 [WRN] MainWindow.ShowPopup: Not connected
+2023-08-24 11:45:05.336 +02:00 [DBG] MainWindow.ShowPopup: Popup not yet shown; Ignore conditional check: True
+2023-08-24 11:45:05.345 +02:00 [WRN] MainWindow.ShowPopup: Not connected
+2023-08-24 11:45:06.355 +02:00 [DBG] MainWindow.ShowPopup: Popup not yet shown; Ignore conditional check: True
+2023-08-24 11:45:06.373 +02:00 [WRN] MainWindow.ShowPopup: Not connected
+2023-08-24 11:45:08.739 +02:00 [DBG] MainWindow.ShowPopup: Popup not yet shown; Ignore conditional check: True
+2023-08-24 11:45:08.746 +02:00 [WRN] MainWindow.ShowPopup: Not connected
+2023-08-24 11:45:17.370 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:17.370 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:28.596 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:28.596 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:34.918 +02:00 [DBG] MainWindow.OnClosing: Now closing session
+2023-08-24 11:45:36.182 +02:00 [DBG] MainWindow.Instance: Initializing window with WndProc proxy
+2023-08-24 11:45:36.247 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:45:36.327 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:45:36.328 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:45:36.339 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:45:36.339 +02:00 [DBG] Windows.HotkeyReceiver: WndProc probes attached
+2023-08-24 11:45:36.339 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:45:36.361 +02:00 [DBG] Windows.HotkeyReceiver: All hotkeys unregistered
+2023-08-24 11:45:36.974 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:45:38.057 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:45:38.067 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:45:45.055 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:45:45.055 +02:00 [DBG] WindowsRT.BluetoothService: Already connecting. Skipping request.
+2023-08-24 11:45:47.784 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:47.784 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:45:48.526 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:45:48.526 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:45:51.443 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:45:54.512 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:45:54.517 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:45:54.522 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:46:03.317 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:46:03.318 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:46:03.318 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:46:03.318 +02:00 [DBG] BluetoothImpl: Using Windows.BluetoothService
+2023-08-24 11:46:03.321 +02:00 [DBG] Windows.BluetoothService: Bluetooth adapter found
+2023-08-24 11:46:05.322 +02:00 [DBG] Windows.BluetoothService: Setting device detection up
+2023-08-24 11:46:09.301 +02:00 [DBG] BluetoothImpl: Reallocating
+2023-08-24 11:46:09.301 +02:00 [DBG] Windows.BluetoothService: Disconnecting...
+2023-08-24 11:46:09.301 +02:00 [DBG] Windows.BluetoothService: BluetoothServiceLoop not yet launched. No need to cancel.
+2023-08-24 11:46:09.301 +02:00 [DBG] BluetoothImpl: Using WinRT.BluetoothService
+2023-08-24 11:46:09.308 +02:00 [DBG] WindowsRT.BluetoothService: Device watcher launched
+2023-08-24 11:46:09.311 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:46:09.311 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-00:1f:e2:9b:fe:c0
+2023-08-24 11:46:09.313 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:09.314 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-5c:eb:68:43:59:80
+2023-08-24 11:46:09.315 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-e8:d0:3c:fb:4e:d0
+2023-08-24 11:46:09.332 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:46:09.332 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 11:46:24.593 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:46:24.596 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:24.821 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:24.823 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:24.824 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:46:24.824 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:24.824 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:46:24.825 +02:00 [DBG] WindowsRT.BluetoothService: Already connecting. Skipping request.
+2023-08-24 11:46:24.825 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:25.052 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:46:25.088 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:46:27.506 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:46:27.507 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:27.642 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:46:30.801 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:30.802 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:46:30.805 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:30.805 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:46:30.806 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:31.471 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:46:31.471 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:46:31.471 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 11:46:39.338 +02:00 [DBG] WindowsRT.BluetoothService: Device enumeration complete
+2023-08-24 11:46:43.070 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 11:46:43.074 +02:00 [WRN] NoiseControlSwitchMode: Unknown mode
+2023-08-24 11:46:47.209 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 11:46:49.700 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:46:49.700 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:46:49.700 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:46:51.753 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:51.754 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:51.754 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:46:51.755 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:46:51.755 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:51.755 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:46:51.757 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:52.081 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:46:52.128 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:46:54.539 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:46:54.540 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:46:54.651 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:47:30.965 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:47:30.969 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:47:30.969 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 11:50:30.263 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:30.263 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:30.264 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:50:30.271 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:30.272 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:50:39.674 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:39.676 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:39.677 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:50:39.678 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:50:39.679 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:50:39.680 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:50:39.681 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:50:39.872 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:50:39.922 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:50:58.230 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:50:58.231 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:50:58.740 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:51:03.166 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:51:03.166 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:51:09.307 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:51:09.308 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:51:10.763 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:51:22.848 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:51:22.849 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:53:58.944 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:53:58.944 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:53:59.796 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:53:59.796 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:54:00.159 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:54:00.160 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:54:00.407 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:54:00.407 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:54:46.562 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:54:51.418 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:54:59.755 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:54:59.755 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:55:14.296 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:14.297 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:55:14.299 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:14.299 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:14.300 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:55:18.541 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:55:18.543 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:55:23.812 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:55:24.169 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:24.169 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:24.170 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:55:24.170 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:55:24.172 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:55:24.172 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:55:24.173 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:55:24.358 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:55:24.375 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:55:26.205 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:55:26.206 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:55:30.814 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:55:40.052 +02:00 [DBG] WindowsRT.BluetoothService: Closing connection...
+2023-08-24 11:55:40.052 +02:00 [DBG] WindowsRT.BluetoothService: Memory freed. Disconnected.
+2023-08-24 11:56:12.783 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 11:56:12.783 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:56:14.514 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:56:15.357 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:56:18.109 +02:00 [DBG] FirmwareRemoteClient: 0 firmware found.
+2023-08-24 11:56:19.473 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 11:56:19.731 +02:00 [DBG] FirmwareRemoteClient: 8 firmware found.
+2023-08-24 11:56:37.829 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:56:37.830 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:56:37.830 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:56:37.842 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:56:37.842 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:58:23.546 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:23.551 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:58:23.552 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:23.558 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:58:23.560 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:23.563 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:58:23.568 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:58:25.019 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:58:25.384 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:58:33.836 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:33.844 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:33.848 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:58:33.854 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:33.856 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 11:58:38.131 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:38.132 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:38.133 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:47.488 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:47.490 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:47.492 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 11:58:49.057 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:49.118 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:49.121 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:58:49.126 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:58:49.132 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 11:58:49.134 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 11:58:49.162 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 11:58:50.901 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 11:58:51.134 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:01:27.832 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:01:27.832 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:01:27.832 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:01:37.756 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:01:37.756 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:01:37.757 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:02:19.113 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 12:02:19.117 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:02:22.527 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:02:24.479 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:02:27.246 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:02:27.246 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:02:27.331 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:03:17.744 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:03:17.744 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:03:17.744 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:07.177 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:07.178 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:07.179 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:11.783 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:04:11.783 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:04:20.102 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:20.102 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:20.102 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:26.239 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:04:31.450 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:31.450 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:04:31.450 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:05:46.648 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:05:46.649 +02:00 [WRN] NoiseControlSwitchMode: Unknown mode
+2023-08-24 12:05:50.052 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:05:50.052 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:05:52.264 +02:00 [WRN] IDeviceSpec: Cannot compare revision. No ExtendedStatusUpdate cached.
+2023-08-24 12:06:24.506 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:06:24.506 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:06:24.506 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:07:11.634 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:07:11.634 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:07:11.634 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:07:24.294 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:07:24.294 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:07:24.294 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:08:03.160 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:08:03.160 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:08:03.160 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:08:42.456 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:08:42.456 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:08:42.456 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:08:50.588 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:08:50.588 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:08:50.588 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:09:39.868 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:09:39.868 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:09:39.868 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:09:44.590 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:09:44.590 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:09:44.590 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:10:04.121 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:10:04.121 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:10:04.121 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:10:11.423 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:10:11.423 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:10:11.424 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:10:57.283 +02:00 [DBG] FirmwareRemoteClient: Searching for firmware binaries...
+2023-08-24 12:10:57.469 +02:00 [DBG] FirmwareRemoteClient: 8 firmware found.
+2023-08-24 12:11:22.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:11:22.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:11:22.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:11:39.571 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:11:39.571 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:11:39.572 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:12:06.599 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:12:06.599 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:12:06.599 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:13:25.098 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:25.101 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:25.101 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:43.971 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:43.971 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:43.971 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:13:44.076 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:13:44.076 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:13:44.076 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:14:43.435 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:14:43.435 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:14:43.435 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:15:16.290 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:15:16.290 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:15:16.290 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:16:03.290 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:16:03.290 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:16:03.290 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:32.967 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:17:32.967 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:17:32.967 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:17:38.737 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:38.737 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:38.737 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:42.295 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:42.295 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:42.295 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:52.814 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:52.814 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:52.814 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:17:53.146 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:53.146 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:53.146 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:17:53.808 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:17:53.808 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:17:53.809 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:18:25.896 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:18:25.896 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:18:25.896 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:18:33.698 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:33.699 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:33.700 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:18:33.736 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:33.737 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:18:45.305 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:18:45.305 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:18:45.305 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:18:45.687 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:18:45.687 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:18:45.688 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:18:53.163 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 12:18:53.164 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:18:53.413 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:53.414 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:18:53.417 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:18:53.418 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:53.426 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:53.426 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:18:53.426 +02:00 [DBG] WindowsRT.BluetoothService: Already connecting. Skipping request.
+2023-08-24 12:18:53.541 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:18:53.709 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:18:56.872 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:56.874 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:56.875 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:18:56.875 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:18:56.875 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:19:12.877 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:12.877 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:12.877 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:19.585 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:19:19.585 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:19:19.585 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:19:29.926 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 12:19:29.927 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:19:30.976 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:30.977 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:30.977 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:19:30.978 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:19:30.979 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:30.979 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:19:30.979 +02:00 [DBG] WindowsRT.BluetoothService: Already connecting. Skipping request.
+2023-08-24 12:19:31.170 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:19:31.401 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:19:34.489 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:34.490 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:34.490 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:19:34.491 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:19:34.491 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:19:41.795 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:41.795 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:41.795 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:19:49.022 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:19:49.022 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:19:49.022 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:19:49.025 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:19:49.025 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:19:49.025 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:20:08.790 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:20:08.791 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:20:08.791 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:20:35.150 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:20:35.150 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:20:35.151 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:20:36.856 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:20:36.856 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:20:36.857 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:27.743 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:27.743 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:27.744 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:32.689 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 12:21:32.690 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:21:32.821 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:32.822 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:32.823 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:21:32.823 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:21:32.825 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:32.826 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:21:32.826 +02:00 [DBG] WindowsRT.BluetoothService: Already connecting. Skipping request.
+2023-08-24 12:21:33.150 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:21:33.209 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:21:36.357 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:36.360 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:36.361 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:21:36.362 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:21:36.363 +02:00 [DBG] WindowsRT.BluetoothService: Target device disconnected
+2023-08-24 12:21:39.588 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:39.588 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:39.589 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:41.502 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:41.502 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:41.502 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:21:59.302 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:21:59.305 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:21:59.306 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:22:46.862 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:22:46.862 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:22:46.863 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:23:07.207 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:23:07.207 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:23:07.207 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:23:25.032 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:23:25.032 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:23:25.033 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:24:45.129 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:24:45.129 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:24:45.130 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:24:54.722 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:24:54.722 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:24:54.723 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:10.109 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:25:10.109 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:25:10.110 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:25:24.289 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:24.289 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:24.289 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:25.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:25:25.186 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:25:25.200 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:25:33.652 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:33.652 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:25:33.652 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:26:03.727 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:26:03.727 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:26:03.728 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:26:23.269 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:26:23.269 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:26:23.269 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:26:23.270 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:23.270 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:23.270 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:23.274 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:26:23.274 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:26:23.274 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:26:26.839 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:26.844 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:26.848 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:26:37.498 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:26:37.498 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:26:37.498 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:02.972 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:02.973 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:02.973 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:29.465 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:27:29.465 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:27:29.466 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:27:29.485 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:27:29.485 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:27:29.485 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:27:30.306 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:30.306 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:30.306 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:27:42.154 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:27:42.154 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:27:42.155 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:01.864 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:28:01.864 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:28:01.864 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:28:07.189 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:07.189 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:07.190 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:41.514 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:41.514 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:28:41.514 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:30:19.286 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:30:19.286 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:30:19.287 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:30.387 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:31:30.387 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:31:30.388 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:31:37.833 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:37.833 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:37.833 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:47.264 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:47.264 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:47.265 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:31:58.281 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:31:58.281 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:31:58.281 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:32:17.606 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:17.606 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:17.606 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:20.532 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:20.532 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:20.532 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:32:33.038 +02:00 [WRN] StubDeviceSpec: initialized
+2023-08-24 12:32:33.039 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:32:38.306 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:32:59.503 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:32:59.503 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:32:59.508 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:13.401 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:13.401 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:13.402 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:17.610 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:33:17.611 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:33:17.611 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:33:17.612 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:33:17.613 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-29:7d:80:e6:be:8a
+2023-08-24 12:33:17.613 +02:00 [DBG] WindowsRT.BluetoothService: Target device connected
+2023-08-24 12:33:17.615 +02:00 [DBG] WindowsRT.BluetoothService: Selected 'Galaxy Buds Pro' (29:7d:80:e6:be:8a) from cache as target
+2023-08-24 12:33:18.119 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:33:18.925 +02:00 [ERR] WindowsRT.BluetoothService: SPP service not discovered
+2023-08-24 12:33:33.501 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:33.501 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:33.505 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:33.507 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:33.509 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:33.510 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:41.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:41.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:41.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-b8:81:98:e3:10:38
+2023-08-24 12:33:41.907 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:41.907 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:41.907 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:33:53.301 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:33:53.301 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:33:53.301 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:33:57.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:57.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:33:57.329 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:12.660 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:12.660 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:12.660 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:13.079 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:13.079 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:13.079 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:16.313 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:34:16.313 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:34:16.313 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-fc:8f:90:39:bb:b8
+2023-08-24 12:34:32.434 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:32.434 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:32.434 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:42.835 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:42.835 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:42.835 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:54.288 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:54.288 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:54.288 +02:00 [DBG] WindowsRT.BluetoothService: Device updated: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-f0:70:4f:4a:99:31
+2023-08-24 12:34:57.715 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:57.715 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:34:57.716 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:35:12.576 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:12.576 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:12.576 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:39.552 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:39.552 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:39.552 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:35:51.405 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:35:51.405 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:35:51.405 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:36:11.293 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:11.293 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:11.293 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:18.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:18.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:18.602 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-0c:89:10:75:ac:1f
+2023-08-24 12:36:40.688 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:36:40.688 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:36:40.688 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:10.463 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:10.463 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:10.464 +02:00 [DBG] WindowsRT.BluetoothService: Device removed: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:17.133 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:17.133 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
+2023-08-24 12:37:17.134 +02:00 [DBG] WindowsRT.BluetoothService: Device added: Bluetooth#Bluetoothb8:31:b5:7a:8e:52-bc:7e:8b:b6:e4:21
