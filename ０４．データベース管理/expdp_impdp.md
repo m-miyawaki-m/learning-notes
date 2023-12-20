@@ -66,5 +66,21 @@ SELECT CON_ID FROM V$CONTAINERS WHERE NAME = 'FREEPDB1';
 ```
 
 
+
+```bash:
+# DBのインポート
+# impdp hr/oracle@freepdb1 directory=DATA_PUMP_DIR dumpfile=dump_testsal_bk2.dmp logfile=import_data.log;
+
+impdp hr/oracle@freepdb1 directory=DATA_PUMP_DIR dumpfile=dump_testsal_bk2.dmp tables=HR.TESTSAL_BK logfile=import_data.log;
+
+## テーブルのsqlを取得
+impdp hr/oracle@freepdb1 directory=DATA_PUMP_DIR dumpfile=dump_testsal_bk2.dmp sqlfile=test.sql
+
+## トラブル
+制約が出力されていない
+```
+
+
+
 ### 参考
 https://rainbow-engine.com/oracle11g-howto-expdp/
