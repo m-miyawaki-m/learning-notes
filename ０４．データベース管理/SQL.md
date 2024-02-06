@@ -1,3 +1,33 @@
+```SQL
+--table name
+select a.table_name,a.* from all_all_tables a
+where owner = upper('hr');
+
+--column name
+select * from all_tab_columns
+where owner = upper('hr')
+;
+
+--table comments
+select * from all_col_comments
+where owner = upper('hr')
+;
+
+--key
+select * from all_col_comments
+where owner = upper('hr')
+and column_name like upper('%region%')
+;
+
+--describe
+describe hr.regions;
+```
+
+
+
+
+
+---
 テーブル結合の種類と処理内容についての概要を説明します。
 
 1. **内部結合（INNER JOIN）**:
