@@ -36,39 +36,216 @@ WebLogicサーバー
 - デプロイに時間がかかる（1〜2分）
 - 開発サイクルが遅い
 
-#### Exploded Deploy
+#### Exploded Deploy（重要：正しい展開方法）
+
+**⚠️ 重要**: EARだけを展開しても効果は限定的です。**WARとJARも展開する必要があります**。
+
+##### ❌ 不完全な展開（効果が薄い）
 
 ```
-アプリケーション
-    ↓ ビルド（展開形式）
 my-app/（ディレクトリ）
 ├── META-INF/
-├── my-webapp.war/
+├── webapp.war           ← ZIPファイルのまま（変更が即座に反映されない）
+├── admin.war            ← ZIPファイルのまま
 └── lib/
-    ↓ 直接デプロイ
-WebLogicサーバー（ディレクトリを参照）
+    ├── common-utils.jar ← ZIPファイルのまま
+    └── spring-*.jar
+```
+
+**問題点**:
+- JSPを変更しても、WARファイル内を更新する必要がある
+- クラスファイルにアクセスできない
+- 開発効率はほとんど向上しない
+
+##### ✅ 完全な展開（推奨）
+
+```
+my-app/（ディレクトリ）
+├── META-INF/
+│   └── application.xml
+├── webapp.war/          ← ディレクトリ形式（完全展開）
+│   ├── META-INF/
+│   ├── WEB-INF/
+│   │   ├── classes/     ← クラスファイルに直接アクセス可能
+│   │   │   └── com/example/action/
+│   │   ├── lib/
+│   │   └── struts.xml
+│   ├── jsp/             ← JSPファイルに直接アクセス可能
+│   ├── css/
+│   └── js/
+├── admin.war/           ← ディレクトリ形式（完全展開）
+└── lib/
+    ├── common-utils.jar ← JARは圧縮のままでOK（頻繁に変更しない）
+    └── spring-*.jar
 ```
 
 **メリット**:
-- **ホットデプロイ**: Javaファイル以外の変更が即座に反映
+- **ホットデプロイ**: JSP/HTML/CSS/JavaScript/設定ファイルの変更が即座に反映
 - **高速な開発サイクル**: ビルド時間の削減
 - **デバッグしやすい**: ファイルの直接編集・確認が可能
+- **クラスファイルの直接更新**: 条件付きでJavaクラスも更新可能（FastSwap使用時）
 
-### 1.2 ホットデプロイ可能な変更
+### 1.2 展開レベルごとの効果比較
 
-| 変更内容 | Exploded | Archived | 再起動 |
+#### 比較表
+
+| 展開レベル | EAR | WAR | プロジェクトJAR | 効果 | 推奨度 |
+|----------|-----|-----|--------------|------|-------|
+| **レベル0**: 通常デプロイ | ✗ アーカイブ | ✗ アーカイブ | ✗ アーカイブ | なし | - |
+| **レベル1**: EARのみ展開 | ✓ ディレクトリ | ✗ アーカイブ | ✗ アーカイブ | ほぼなし | ❌ 非推奨 |
+| **レベル2**: EAR+WAR展開 | ✓ ディレクトリ | ✓ ディレクトリ | ✗ アーカイブ | 高い | ✅ 推奨 |
+| **レベル3**: 完全展開 | ✓ ディレクトリ | ✓ ディレクトリ | ✓ ディレクトリ | 最高 | ⚠️ 条件付き |
+
+#### レベル1: EARのみ展開（非推奨）
+
+```
+my-app/
+├── META-INF/
+├── webapp.war           ← ファイル
+└── lib/
+    └── common-utils.jar ← ファイル
+```
+
+**反映される変更**:
+- なし（WARとJARが圧縮されているため）
+
+**反映されない変更**:
+- JSP/HTML/CSS/JavaScript
+- 設定ファイル
+- クラスファイル
+
+**結論**: 開発効率の向上はほぼゼロ。意味がない。
+
+#### レベル2: EAR+WAR展開（推奨）
+
+```
+my-app/
+├── META-INF/
+├── webapp.war/          ← ディレクトリ
+│   ├── WEB-INF/
+│   │   └── classes/
+│   └── jsp/
+└── lib/
+    └── common-utils.jar ← ファイル（展開しない）
+```
+
+**反映される変更**:
+- ✅ JSP/HTML/CSS/JavaScript → 即座
+- ✅ 設定ファイル（struts.xml等） → 即座（devMode時）
+- ✅ WEB-INF/classes/のクラスファイル → 条件付き（FastSwap時）
+
+**反映されない変更**:
+- ❌ プロジェクト内JARのクラス（common-utils.jar等）
+
+**結論**: 実用的。ほとんどのケースでこれで十分。
+
+#### レベル3: 完全展開（条件付き推奨）
+
+```
+my-app/
+├── META-INF/
+├── webapp.war/          ← ディレクトリ
+│   ├── WEB-INF/
+│   │   └── classes/
+│   └── jsp/
+└── lib/
+    └── common-utils/    ← ディレクトリ（JARも展開）
+        └── com/example/utils/
+```
+
+**反映される変更**:
+- ✅ すべての静的リソース
+- ✅ WARのクラスファイル
+- ✅ プロジェクト内JARのクラスファイルも条件付きで可能
+
+**デメリット**:
+- クラスローダーの問題が発生しやすい
+- WebLogicがJARを期待する場合に動作しない可能性
+- 設定が複雑
+
+**結論**: 通常は不要。レベル2で十分。
+
+### 1.3 ホットデプロイ可能な変更（レベル2展開時）
+
+| 変更内容 | EARのみ展開 | WAR展開 | 再起動 |
 |---------|----------|----------|--------|
-| JSP/HTML | ✓ 即座 | ✗ 再デプロイ | 不要 |
-| JavaScript/CSS | ✓ 即座 | ✗ 再デプロイ | 不要 |
-| プロパティファイル | ✓ 即座 | ✗ 再デプロイ | 不要（一部要） |
-| Struts設定（struts.xml） | ✓ 即座※ | ✗ 再デプロイ | 不要※ |
-| Spring設定（XML） | △ 要設定 | ✗ 再デプロイ | 不要（devtools使用時） |
-| Javaソースコード | ✗ 再コンパイル | ✗ 再デプロイ | 要 |
-| ライブラリJAR | ✗ 再デプロイ | ✗ 再デプロイ | 要 |
+| JSP/HTML | ✗ 不可 | ✓ 即座 | 不要 |
+| JavaScript/CSS | ✗ 不可 | ✓ 即座 | 不要 |
+| プロパティファイル | ✗ 不可 | ✓ 即座 | 不要（一部要） |
+| Struts設定（struts.xml） | ✗ 不可 | ✓ 即座※ | 不要※ |
+| Spring設定（XML） | ✗ 不可 | △ 要設定 | 不要（devtools使用時） |
+| WARのJavaクラス | ✗ 不可 | △ FastSwap時 | FastSwap次第 |
+| プロジェクトJAR内クラス | ✗ 不可 | ✗ 再デプロイ | 要 |
+| ライブラリJAR | ✗ 不可 | ✗ 再デプロイ | 要 |
 
 ※ Struts 2の`devMode`有効時
 
-### 1.3 Exploded Deploy対応のディレクトリ構造
+### 1.4 なぜWARも展開する必要があるのか
+
+#### 問題のシナリオ
+
+現在の開発環境がEARのみを展開している場合を考えます：
+
+```bash
+# EARを展開デプロイしている（が、WARは圧縮のまま）
+$DOMAIN_HOME/autodeploy/my-app/
+├── META-INF/
+├── webapp.war          # ← これが問題！ファイルのまま
+└── lib/
+```
+
+**この状態での作業フロー**:
+
+1. JSPファイルを編集 → `webapp/src/main/webapp/jsp/index.jsp`
+2. 変更を反映させるには？
+   - `./gradlew :webapp:war` でWARを再ビルド
+   - WARファイルをEARディレクトリにコピー
+   - WebLogicが変更を検知して再デプロイ（30秒〜1分）
+3. ブラウザで確認
+
+**問題点**: JSPの小さな変更でも毎回1分以上かかる
+
+#### 解決方法: WARも展開する
+
+```bash
+$DOMAIN_HOME/autodeploy/my-app/
+├── META-INF/
+├── webapp.war/         # ← ディレクトリに！
+│   ├── WEB-INF/
+│   └── jsp/
+│       └── index.jsp   # ← ここを直接編集できる
+└── lib/
+```
+
+**改善された作業フロー**:
+
+1. JSPファイルを編集 → `webapp/src/main/webapp/jsp/index.jsp`
+2. Exploded WARにコピー:
+   ```bash
+   cp webapp/src/main/webapp/jsp/index.jsp \
+      $DOMAIN_HOME/autodeploy/my-app/webapp.war/jsp/
+   ```
+3. ブラウザをリロード（即座に反映）
+
+**改善効果**: 1分 → 数秒
+
+#### さらに効率化: シンボリックリンクの活用
+
+開発中は、ソースディレクトリとデプロイディレクトリをシンボリックリンクで接続：
+
+```bash
+# JSPディレクトリをリンク
+ln -s $(pwd)/webapp/src/main/webapp/jsp \
+      $DOMAIN_HOME/autodeploy/my-app/webapp.war/jsp
+
+# 静的リソースもリンク
+ln -s $(pwd)/webapp/src/main/webapp/css \
+      $DOMAIN_HOME/autodeploy/my-app/webapp.war/css
+```
+
+これにより、ソースを編集すると即座にデプロイディレクトリに反映されます。
+
+### 1.5 Exploded Deploy対応のディレクトリ構造
 
 ```
 exploded-ear/
@@ -382,7 +559,11 @@ tasks.register('explodedEar') {
             into "${explodedDir}/META-INF"
         }
 
-        // WARファイルを展開形式でコピー
+        // ==========================================
+        // ★重要: WARファイルを展開形式でコピー
+        // ==========================================
+        // zipTreeを使用してWARファイルを展開し、ディレクトリ形式にする
+        // これにより、JSP/HTML/CSS等の変更が即座に反映される
         copy {
             from zipTree(project(':webapp').war.archiveFile)
             into "${explodedDir}/webapp.war"
@@ -393,7 +574,11 @@ tasks.register('explodedEar') {
             into "${explodedDir}/admin.war"
         }
 
-        // 共有ライブラリをコピー
+        // ==========================================
+        // 共有ライブラリをコピー（JARのまま）
+        // ==========================================
+        // プロジェクト内JARと外部JARは通常ファイル形式のままでOK
+        // 頻繁に変更しないため、展開する必要はない
         mkdir "${explodedDir}/lib"
         copy {
             from project(':common-lib').jar.archiveFile
@@ -403,6 +588,9 @@ tasks.register('explodedEar') {
         }
 
         println "✓ Exploded EAR created at: ${explodedDir}"
+        println "  - EAR: Exploded (directory)"
+        println "  - WAR: Exploded (directory) ← 重要！"
+        println "  - JAR: Archived (file)"
     }
 }
 
